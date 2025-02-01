@@ -1,0 +1,22 @@
+.card {
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+
+}
+
+.card h2 {
+  margin-bottom: 10px;
+}
+
+
+.bg-purple {
+background: #e4e8ff;
+}
+.bg-lavender {
+  background: #ede4ff;
+}
+
+.bg-red {
+  background: #ffe3ed;
+}
